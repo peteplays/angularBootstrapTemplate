@@ -10,9 +10,6 @@
     "bootstrap": "^3.3.6"
   },
   "devDependencies": {},
-  "scripts": {
-    "run": "beefy index.html 9999 -l -o"
-  },
   "author": "peteplays",
   "license": "MIT"
 }
